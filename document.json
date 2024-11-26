@@ -1,0 +1,392 @@
+{
+  "documentLayout": {
+    "blocks": [{
+      "blockId": "1",
+      "textBlock": {
+        "text": "2.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "2",
+      "textBlock": {
+        "text": "COURT NO. 1 ARMED FORCES TRIBUNAL PRINCIPAL BENCH, NEW DELHI",
+        "type": "heading-1"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "3",
+      "textBlock": {
+        "text": "AT 1/2024 IN (OA 3843/2018 AFT RB Chandigarh)",
+        "type": "heading-1",
+        "blocks": [{
+          "blockId": "4",
+          "textBlock": {
+            "text": "CORAM",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "5",
+          "tableBlock": {
+            "bodyRows": [{
+              "cells": [{
+                "blocks": [{
+                  "blockId": "6",
+                  "textBlock": {
+                    "text": "Ex Sep Jagmal Singh Versus",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 1,
+                    "pageEnd": 1
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }, {
+                "blocks": [{
+                  "blockId": "7",
+                  "textBlock": {
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 1,
+                    "pageEnd": 1
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }, {
+                "blocks": [{
+                  "blockId": "8",
+                  "textBlock": {
+                    "text": "Applicant",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 1,
+                    "pageEnd": 1
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }]
+            }, {
+              "cells": [{
+                "blocks": [{
+                  "blockId": "9",
+                  "textBlock": {
+                    "text": "Union of India \u0026 Ors.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 1,
+                    "pageEnd": 1
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }, {
+                "blocks": [{
+                  "blockId": "10",
+                  "textBlock": {
+                    "text": "....",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 1,
+                    "pageEnd": 1
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }, {
+                "blocks": [{
+                  "blockId": "11",
+                  "textBlock": {
+                    "text": "Respondents",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 1,
+                    "pageEnd": 1
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }]
+            }]
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "12",
+          "tableBlock": {
+            "bodyRows": [{
+              "cells": [{
+                "blocks": [{
+                  "blockId": "13",
+                  "textBlock": {
+                    "text": "For Applicant",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 1,
+                    "pageEnd": 1
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }, {
+                "blocks": [{
+                  "blockId": "14",
+                  "textBlock": {
+                    "text": ":",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 1,
+                    "pageEnd": 1
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }, {
+                "blocks": [{
+                  "blockId": "15",
+                  "textBlock": {
+                    "text": "Mr. Sonu Sharma, Advocate for",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 1,
+                    "pageEnd": 1
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }]
+            }, {
+              "cells": [{
+                "blocks": [{
+                  "blockId": "16",
+                  "textBlock": {
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 1,
+                    "pageEnd": 1
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }, {
+                "blocks": [{
+                  "blockId": "17",
+                  "textBlock": {
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 1,
+                    "pageEnd": 1
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }, {
+                "blocks": [{
+                  "blockId": "18",
+                  "textBlock": {
+                    "text": "Mr. Gopal Krishan Gupta, Advocate",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 1,
+                    "pageEnd": 1
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }]
+            }, {
+              "cells": [{
+                "blocks": [{
+                  "blockId": "19",
+                  "textBlock": {
+                    "text": "For Respondents",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 1,
+                    "pageEnd": 1
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }, {
+                "blocks": [{
+                  "blockId": "20",
+                  "textBlock": {
+                    "text": ":",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 1,
+                    "pageEnd": 1
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }, {
+                "blocks": [{
+                  "blockId": "21",
+                  "textBlock": {
+                    "text": "Maj Lauv Kumar, OIC Legal Cell",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 1,
+                    "pageEnd": 1
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }]
+            }]
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "22",
+          "textBlock": {
+            "text": "HON\u0027BLE MR. JUSTICE RAJENDRA MENON, CHAIRPERSON",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "23",
+          "textBlock": {
+            "text": "ORDER",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "24",
+          "textBlock": {
+            "text": "05.01.2024",
+            "type": "heading-2"
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }]
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "25",
+      "textBlock": {
+        "text": "AT 1/2024",
+        "type": "heading-1",
+        "blocks": [{
+          "blockId": "26",
+          "textBlock": {
+            "text": "Considering the fact that the applicant has now shifted",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "27",
+          "textBlock": {
+            "text": "to State of Uttar Pradesh, prayer made in this application is allowed. Accordingly, OA 3843/2018 pending before the Regional Bench at Chandigarh stands transferred to the Regional Bench at Lucknow.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "28",
+          "textBlock": {
+            "text": "2. Registry (Chandigarh) is directed to ensure that the entire records of OA 3843/2018, in original, are remitted to",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "29",
+          "textBlock": {
+            "text": "the Regional Bench at Lucknow.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "30",
+          "textBlock": {
+            "text": "3. The AT stands disposed of accordingly.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "31",
+          "textBlock": {
+            "text": "Neha",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "32",
+          "textBlock": {
+            "text": "[JUSTICE RAJENDRA MENON] CHAIRPERSON",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }]
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }]
+  }
+}
